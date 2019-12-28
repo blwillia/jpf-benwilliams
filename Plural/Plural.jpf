@@ -1,0 +1,5 @@
+target = Plural
+
+vm.tree_output = false 
+vm.path_output = true
+search.class = .search.heuristic.BFSHeuristic
